@@ -627,3 +627,6 @@ blockquote,
   opacity: 0;
 }
 
+.schedule-slot-title{
+    font-size: 1rem;
+}
