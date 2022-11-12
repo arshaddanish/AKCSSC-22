@@ -2398,6 +2398,7 @@ body.single .ts-footer,
   color: #e7015e;
 }
 .ts-pricing-box .pricing-btn {
+  margin-top: 25px;
   margin-bottom: 25px;
   position: relative;
 }
