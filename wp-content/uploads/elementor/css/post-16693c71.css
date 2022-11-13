@@ -167,7 +167,7 @@
   .elementor-element.elementor-element-b1a50f3
   > .elementor-element-populated
   > .elementor-widget-wrap {
-  padding: 0px 30px 0px 60px;
+  padding: 0px 30px 0px 40px;
 }
 .elementor-1669
   .elementor-element.elementor-element-70d22bb
@@ -1659,9 +1659,9 @@
   .elementor-1669 .elementor-element.elementor-element-0444989 {
     width: 49.953%;
   }
-  .elementor-1669 .elementor-element.elementor-element-b1a50f3 {
+  /* .elementor-1669 .elementor-element.elementor-element-b1a50f3 {
     width: 50.047%;
-  }
+  } */
   .elementor-1669 .elementor-element.elementor-element-c319185 {
     width: 41.666666%;
   }
