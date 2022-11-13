@@ -645,8 +645,23 @@ a.disabled {
     margin-top: 20px;
   }
 
-  .speakers-grid {
+  #speakers-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+.pb-div {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.pricing-btn.x {
+  background: #fff;
+  color: #e7015e;
+}
+
+/* .speakers-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+} */
