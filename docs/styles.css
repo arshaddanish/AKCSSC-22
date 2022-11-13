@@ -644,4 +644,9 @@ a.disabled {
   .section-title.mv-about {
     margin-top: 20px;
   }
+
+  .speakers-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
