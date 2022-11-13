@@ -1577,7 +1577,7 @@ img.schedule-slot-speakers.tab-speaker-img-2 {
 
 .ts-footer {
   background: #1a1831;
-  padding: 250px 0 50px;
+  padding: 50px 0 50px;
   position: relative;
   overflow: hidden;
 }
@@ -8323,7 +8323,7 @@ body.search-results .main-container {
   }
 
   .ts-footer {
-    padding: 290px 0 60px;
+    padding: 60px 0 60px;
   }
 
   .ts-footer.ts-footer-item .newsletter-form {
